@@ -1,0 +1,87 @@
+/* Styles for the tasker-panel */
+.tasker-panel {
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+
+    /* Styles for Create Task section */
+    .create-task-section {
+        width: 80%;
+        padding: 1rem;
+        border-radius: 2rem;
+        background-color: #f8f8f8;
+        transition: all 0.5s ease-in-out;
+
+        h2 {
+            font-size: 1.5rem;
+            margin-bottom: 1rem;
+        }
+
+        /* Styles for message */
+        .message {
+            width: 100%;
+            padding: 0.5rem;
+            margin-bottom: 1rem;
+            border-radius: 0.5rem;
+            color: #fff;
+
+            &.success {
+                background-color: #45a049;
+            }
+
+            &.error {
+                background-color: #ff4d4f;
+            }
+        }
+
+        /* Styles for input fields */
+        label {
+            width: 15%;
+            font-size: 1rem;
+            margin-right: 0.5rem;
+        }
+
+        input,
+        textarea,
+        button {
+            width: 100%;
+            padding: 0.2rem;
+            margin-bottom: 1rem;
+            border: 0.1rem solid #ccc;
+            border-radius: 0.5rem;
+            outline: none;
+            transition: border-color 0.5s ease-in-out;
+
+            &:focus {
+                border-color: #2981da;
+            }
+        }
+
+        textarea {
+            height: 150px;
+            /* Set a fixed height for the textarea */
+        }
+
+        /* Styles for the Create Task button */
+        button {
+            background-color: #2981da;
+            color: white;
+            padding: 0.5rem 1rem;
+            border: none;
+            border-radius: 0.5rem;
+            cursor: pointer;
+            transition: background-color 0.4s ease-in-out;
+
+            &:hover {
+                background-color: #45a049;
+            }
+        }
+
+        &:hover {
+            background-color: #fff;
+            transform: scale(1.02);
+        }
+    }
+}

@@ -1,0 +1,178 @@
+error: MongoDB connection error: MongoServerError: bad auth : authentication failed
+error: MongoDB connection error: MongoServerError: bad auth : authentication failed
+error: MongoDB connection error: MongoServerError: bad auth : authentication failed
+error: MongoDB connection error: MongoServerError: bad auth : authentication failed
+error: MongoDB connection error: MongoServerError: bad auth : authentication failed
+error: MongoDB connection error: MongoServerError: bad auth : authentication failed
+error: MongoDB connection error: MongoServerError: bad auth : authentication failed
+error: MongoDB connection error: MongoServerError: bad auth : authentication failed
+error: MongoDB connection error: MongoServerError: bad auth : authentication failed
+error: db_1.default.connect is not a function
+error: MongoDB connection error: MongoServerError: bad auth : authentication failed
+error: MongoDB connection error: MongoServerError: bad auth : authentication failed
+error: MongoDB connection error: MongoServerError: bad auth : authentication failed
+error: MongoDB connection error: MongoServerError: bad auth : authentication failed
+error: MongoDB connection error: MongoServerError: bad auth : authentication failed
+error: MongoDB connection error: MongoServerError: bad auth : authentication failed
+error: Please define the MONGO_URI environment variable inside .env.local
+error: Please define the MONGO_URI environment variable inside .env.local
+error: MongoDB connection error: MongoServerError: bad auth : authentication failed
+error: Please define the MONGO_URI environment variable inside .env.local
+error: Error connecting to MongoDB:, Error: Please define the MONGO_URI environment variable inside .env.local
+error: Please define the MONGO_URI environment variable inside .env.local
+error: MongoDB connection error: MongoServerError: bad auth : authentication failed
+error: Please define the MONGO_URI environment variable inside .env.local
+error: Error connecting to MongoDB:, Error: Please define the MONGO_URI environment variable inside .env.local
+error: Please define the MONGO_URI environment variable inside .env.local
+error: MongoDB connection error: MongoServerError: bad auth : authentication failed
+error: Please define the MONGO_URI environment variable inside .env.local
+error: Error connecting to MongoDB:, Error: Please define the MONGO_URI environment variable inside .env.local
+error: Please define the MONGO_URI environment variable inside .env.local
+error: MongoDB connection error: MongoServerError: bad auth : authentication failed
+error: MongoDB connection error: MongoServerError: bad auth : authentication failed
+error: Error connecting to MongoDB:, TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Mongoose'
+    |     property 'connections' -> object with constructor 'Array'
+    |     index 0 -> object with constructor 'NativeConnection'
+    --- property 'base' closes the circle
+error: Error creating user:, ValidationError: lastLogin: Path `lastLogin` is required., updatedAt: Path `updatedAt` is required., createdAt: Path `createdAt` is required.
+error: Error creating user:, ValidationError: updatedAt: Path `updatedAt` is required., lastLogin: Path `lastLogin` is required.
+error: Error updating user:, CastError: Cast to ObjectId failed for value "08c9b26a-fa9f-45a1-af81-e6c21e1567cc" (type string) at path "_id" for model "User"
+error: Error updating user:, CastError: Cast to ObjectId failed for value "08c9b26a-fa9f-45a1-af81-e6c21e1567cc" (type string) at path "_id" for model "User"
+error: Error fetching user:, ObjectParameterError: Parameter "filter" to findOne() must be an object, got "[object Object]" (type object)
+error: Error updating user:, CastError: Cast to ObjectId failed for value "08c9b26a-fa9f-45a1-af81-e6c21e1567cc" (type string) at path "_id" for model "User"
+error: Error updating user:, CastError: Cast to ObjectId failed for value "c973ffcd-200a-42f1-8b1e-3b9272b3e208" (type string) at path "_id" for model "User"
+error: Error updating user:, CastError: Cast to ObjectId failed for value "c973ffcd-200a-42f1-8b1e-3b9272b3e208" (type string) at path "_id" for model "User"
+error: Error updating user:, CastError: Cast to ObjectId failed for value "c973ffcd-200a-42f1-8b1e-3b9272b3e208" (type string) at path "_id" for model "User"
+error: Error updating user:, CastError: Cast to ObjectId failed for value "c973ffcd-200a-42f1-8b1e-3b9272b3e208" (type string) at path "_id" for model "User"
+error: Error updating user:, CastError: Cast to ObjectId failed for value "c973ffcd-200a-42f1-8b1e-3b9272b3e208" (type string) at path "_id" for model "User"
+error: Error updating user:, CastError: Cast to ObjectId failed for value "c973ffcd-200a-42f1-8b1e-3b9272b3e208" (type string) at path "_id" for model "User"
+error: Error creating user:, MongoServerError: E11000 duplicate key error collection: test.users index: username_1 dup key: { username: "jira111211111" }
+error: Error updating user:, CastError: Cast to ObjectId failed for value "c973ffcd-200a-42f1-8b1e-3b9272b3e208" (type string) at path "_id" for model "User"
+error: Error updating user:, CastError: Cast to ObjectId failed for value "c973ffcd-200a-42f1-8b1e-3b9272b3e208" (type string) at path "_id" for model "User"
+error: Error updating user:, CastError: Cast to ObjectId failed for value "c973ffcd-200a-42f1-8b1e-3b9272b3e208" (type string) at path "_id" for model "User"
+error: Error updating user:, CastError: Cast to ObjectId failed for value "c973ffcd-200a-42f1-8b1e-3b9272b3e208" (type string) at path "_id" for model "User"
+error: Error updating user:, CastError: Cast to ObjectId failed for value "c973ffcd-200a-42f1-8b1e-3b9272b3e208" (type string) at path "_id" for model "User"
+error: Error updating user: CastError: Cast to ObjectId failed for value "c973ffcd-200a-42f1-8b1e-3b9272b3e208" (type string) at path "_id" for model "User"
+error: Error updating user: CastError: Cast to ObjectId failed for value "c973ffcd-200a-42f1-8b1e-3b9272b3e208" (type string) at path "_id" for model "User"
+error: Error updating user: CastError: Cast to ObjectId failed for value "c973ffcd-200a-42f1-8b1e-3b9272b3e208" (type string) at path "_id" for model "User"
+error: Error updating user: CastError: Cast to ObjectId failed for value "c973ffcd-200a-42f1-8b1e-3b9272b3e208" (type string) at path "_id" for model "User"
+error: Error updating user: CastError: Cast to ObjectId failed for value "c973ffcd-200a-42f1-8b1e-3b9272b3e208" (type string) at path "_id" for model "User"
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Task id is required
+error: Task id is required
+error: Task id is required
+error: Task id is required
+error: Error deleting task: CastError: Cast to ObjectId failed for value "434f11f8-1891-4ed3-b888-c6019c9167df" (type string) at path "_id" for model "Task"
+error: Task not found
+error: Error deleting task: CastError: Cast to ObjectId failed for value "434f11f8-1891-4ed3-b888-c6019c9167df" (type string) at path "_id" for model "Task"
+error: Task not found
+error: Error deleting task: CastError: Cast to ObjectId failed for value "434f11f8-1891-4ed3-b888-c6019c9167df" (type string) at path "_id" for model "Task"
+error: Task not found
+error: Invalid session
+error: Error fetching task:, Error: Task not found
+error: Task not found
+error: Task not found
+error: Task not found
+error: Invalid session
+error: Invalid session
+error: Task not found
+error: Task not found
+error: Task not found
+error: Task not found
+error: Task not found
+error: Task not found
+error: Task not found
+error: Task not found
+error: Task not found
+error: Task not found
+error: Error fetching tasks:, ReferenceError: Cannot access 'result' before initialization
+error: Error deleting task: ReferenceError: Cannot access 'result' before initialization
+error: Error deleting task: ReferenceError: Cannot access 'result' before initialization
+error: Invalid session
+error: Error fetching tasks:, ReferenceError: Cannot access 'result' before initialization
+error: Error deleting task: ReferenceError: Cannot access 'result' before initialization
+error: Error deleting task: ReferenceError: Cannot access 'result' before initialization
+error: Invalid session
+error: Error creating task:, ValidationError: priority: Path `priority` is required.
+error: Error creating task:, ValidationError: priority: Path `priority` is required.
+error: Error refreshing the access token: JsonWebTokenError: jwt must be provided
+error: Error refreshing the access token: JsonWebTokenError: jwt must be provided
+error: Error refreshing the access token: JsonWebTokenError: jwt must be provided
+error: Error refreshing the access token: JsonWebTokenError: jwt must be provided
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Error refreshing the access token: JsonWebTokenError: jwt must be provided
+error: Error refreshing the access token: JsonWebTokenError: jwt must be provided
+error: Error getting list of tasks:, JsonWebTokenError: jwt must be provided
+error: Error creating task:, JsonWebTokenError: jwt must be provided
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Error deleting task: JsonWebTokenError: jwt must be provided
+error: Invalid session
+error: Invalid session
+error: Error fetching task:, CastError: Cast to ObjectId failed for value "8fc257ea-6a49-4ed9-9dc7-c7fb92021a5d" (type string) at path "_id" for model "Task"
+error: Error fetching task:, CastError: Cast to ObjectId failed for value "8fc257ea-6a49-4ed9-9dc7-c7fb92021a5d" (type string) at path "_id" for model "Task"
+error: Invalid session
+error: Invalid session
+error: Error deleting task:, CastError: Cast to ObjectId failed for value "{ _id: '8fc257ea-6a49-4ed9-9dc7-c7fb92021a5d' }" (type Object) at path "_id" for model "Task"
+error: Error fetching tasks:, CastError: Cast to ObjectId failed for value "{ _id: '8fc257ea-6a49-4ed9-9dc7-c7fb92021a5d' }" (type Object) at path "_id" for model "Task"
+error: Error deleting task: CastError: Cast to ObjectId failed for value "{ _id: '8fc257ea-6a49-4ed9-9dc7-c7fb92021a5d' }" (type Object) at path "_id" for model "Task"
+error: Error deleting task: CastError: Cast to ObjectId failed for value "{ _id: '8fc257ea-6a49-4ed9-9dc7-c7fb92021a5d' }" (type Object) at path "_id" for model "Task"
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Invalid session
+error: Invalid session
